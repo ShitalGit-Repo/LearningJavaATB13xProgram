@@ -11,7 +11,7 @@ public class Lab013_Non_Primitive_Literal {
         //No Min, Max, Size.
         //Byte 8 -> 64 bites.
         String name = "shital";
-        int [] array_of_items = new int [10];
+        int[] array_of_items = new int[10];
 
         System.out.println(name);
         System.out.println(array_of_items);
