@@ -1,4 +1,4 @@
-package ex_10_Loops;
+package ex_11_while_loop;
 
 import java.util.Scanner;
 

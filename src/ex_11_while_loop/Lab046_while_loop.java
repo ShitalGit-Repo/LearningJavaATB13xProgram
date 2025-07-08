@@ -1,4 +1,4 @@
-package ex_10_Loops;
+package ex_11_while_loop;
 
 public class Lab046_while_loop {
     public static void main(String[] args) {

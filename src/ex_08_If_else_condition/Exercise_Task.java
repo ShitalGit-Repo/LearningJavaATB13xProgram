@@ -7,12 +7,12 @@ public class Exercise_Task {
     public static void main(String[] args) {
 
 
-        char ch;
+
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter a character");
         char ch = scanner.next().charAt(0);
     //convert to lower case for easier comparison
-        ch = Character.toLowerCase();
+        ch = Character.toLowerCase(ch);
 
     //check input is the letter.
 
