@@ -25,6 +25,23 @@ public class Lab060_String_Function2 {
         String [] split_name4 = name4.split("@");
         System.out.println(split_name4[0]);
         System.out.println(split_name4[1]);
+//substring
+        System.out.println(name.substring(1,3));
+//startswith
+        System.out.println(name.startsWith("S"));
+//trim
+        String t = " hi  ";
+        String t2 = t.trim();
+        System.out.println(t2);
+//endswith
+        System.out.println(name.endsWith("a"));
+
+        String Palindrome = "Niagara. 0 roar again!";
+        System.out.println(Palindrome.length());
+        String extract = Palindrome.substring(11,15);
+        System.out.println(extract);
+
+
 
     }
 }
