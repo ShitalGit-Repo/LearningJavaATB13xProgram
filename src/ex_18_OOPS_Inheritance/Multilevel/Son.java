@@ -1,4 +1,4 @@
-package ex_18_OOPS_Inheritance_Multilevel;
+package ex_18_OOPS_Inheritance.Multilevel;
 
 public class Son extends Father {
 

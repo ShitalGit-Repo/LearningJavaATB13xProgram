@@ -1,4 +1,4 @@
-package ex_18_OOPS_Inheritance_Hierarchical;
+package ex_18_OOPS_Inheritance.Hierarchical;
 
 public class Hierarchical {
     //Hierarchical Inheritance
